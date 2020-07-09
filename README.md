@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="https://github.com/kouul/kouul/blob/master/hans.gif" /></div>
+![about me](https://github.com/kouul/kouul/blob/master/hans.gif)
