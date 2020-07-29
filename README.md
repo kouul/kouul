@@ -6,17 +6,17 @@
 
 # Yo! I'm Hans, :wave: 
 
-:large_orange_diamond: Passionate about modern technological advances 
+:large_orange_diamond: **Passionate** about modern technological advances 
 
-:large_orange_diamond: Full stack web applications developer
+:large_orange_diamond: Full stack web applications **developer**
 
-:pencil2: Design web apps
+:pencil2: **Design** web apps
 
-:computer: Develop web apps
+:computer: **Develop** web apps
 
-:octopus: Deploy web apps
+:octopus: **Deploy** web apps
 
-:whale: Containerize web apps
+:whale: **Containerize** web apps
 
 ## :fire: Tech stack :fire:
 <div align="center">
