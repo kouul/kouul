@@ -4,11 +4,9 @@
 </div>
 <div>
 
-## :wave: Yo! :wave: 
+# Yo! :wave: 
 
-<p width="60%">
-I'm Hans, a tech passionate and full stack web developer. I enjoy designing, developing & deploying websites and web application just for the fun of it. :satisfied:
-</p>
+I'm Hans, a tech passionate and full stack web developer. I design, develop and deploy full stack websites using **Python3/Flask** for backend, **ReactJs** for frontend, **MongoDB** as database. I can also containerize your application using **Docker** if necessary. :satisfied:
 
 ## Tech stack
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="150" width="150" >
