@@ -1,12 +1,7 @@
 <img src="https://github.com/kouul/kouul/blob/master/hans.gif">
 <div align="center">
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="180" width="100%">
-</div>
-<div>
-
-# Yo! I'm Hans, :wave: 
-
-:large_orange_diamond: **Passionate** about modern technological advances 
+:raised_hands: **Passionate** about modern technological advances 
 
 :large_orange_diamond: Full stack web applications **developer**
 
@@ -17,6 +12,9 @@
 :octopus: **Deploy** web apps
 
 :whale: **Containerize** web apps
+</div>
+
+<div>
 
 ## :fire: Tech stack :fire:
 <div align="center">
