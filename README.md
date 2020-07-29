@@ -29,7 +29,7 @@ Deploy web apps
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
 Containerize web apps
 
-## Tech stack
+## :sparkles: Tech stack :fire:
 <div align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="100" width="100" >
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" height="100" width="100">
@@ -43,14 +43,14 @@ Containerize web apps
 
 **HashtagHub**
 <a href="http://hashtaghub.herokuapp.com/">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="15" width="15">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
 </a>
 
 HashtagHub is an online platform that fetches public posts and articles from social media and blogging platforms based on the hashtag you enter, and displays them to you!
 
 **buildflaskapp**
 <a href="https://buildflaskapp.kouul.website/">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="25" width="25">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
 </a>
 
 <a href="https://github.com/buildflaskapp/buildflaskapp/stargazers"><img src="https://img.shields.io/github/stars/buildflaskapp/buildflaskapp" atl="Stars"></a>
