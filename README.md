@@ -6,7 +6,7 @@
 
 # Yo! I'm Hans, :wave: 
 
-:beginner: Passionate about modern technological advances 
+:large_orange_diamond: Passionate about modern technological advances 
 <br />
 
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
