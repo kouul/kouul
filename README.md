@@ -43,8 +43,9 @@ Containerize web apps
 
 **HashtagHub**
 <a href="http://hashtaghub.herokuapp.com/">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="25" width="25">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="15" width="15">
 </a>
+
 HashtagHub is an online platform that fetches public posts and articles from social media and blogging platforms based on the hashtag you enter, and displays them to you!
 
 **buildflaskapp**
