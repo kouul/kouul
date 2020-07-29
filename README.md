@@ -14,19 +14,26 @@
 ## Social life
 
 <a href="https://twitter.com/akhilmaulloo">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-256.png" height="250" width="250">
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-256.png" height="80" width="80">
 </a>
 <a href="https://linkedin.com/in/akhilmaulloo">
-<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" height="250" width="250">
+<img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" height="80" width="80">
+</a>
+<a href="https://hansmaulloo.com">
+<img src="https://cdn.iconscout.com/icon/free/png-512/www-11-112203.png" height="80" width="80">
+</a>
+<a href="https://dev.to/kouul">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-256.png" height="80" width="80">
 </a>
 
-## My Projects :star:
 
-** HashtagHub **
+## :star: My Projects :star:
+
+**HashtagHub**
 
 HashtagHub is an online platform that fetches public posts and articles from social media and blogging platforms based on the hashtag you enter, and displays them to you!
 
-** buildflaskapp **
+**buildflaskapp**
 
 <a href="https://github.com/buildflaskapp/buildflaskapp/stargazers"><img src="https://img.shields.io/github/buildflaskapp/buildflaskapp" atl="Stars"></a>
 
