@@ -1,4 +1,4 @@
-<img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="150" width="100%">
+<img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="150" width="80%">
 <div>
 
 ## :wave: Yo! :wave: 
