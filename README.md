@@ -1,10 +1,10 @@
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="150" width="100%">
 <div>
 
-## About me
+## :wave: Yo! :wave: 
 
 <p width="60%">
-:wave: Yo! I'm Hans, a tech passionate and full stack web developer. I enjoy designing, developing & deploying websites and web application just for the fun of it. :satisfied:
+I'm Hans, a tech passionate and full stack web developer. I enjoy designing, developing & deploying websites and web application just for the fun of it. :satisfied:
 </p>
 
 ## Tech stack
