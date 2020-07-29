@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/kouul/kouul/blob/master/startline.png" height="100">
+<img src="https://github.com/kouul/kouul/blob/master/startline.png">
 
 ## About me
 
