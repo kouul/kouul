@@ -3,7 +3,9 @@
 
 ## About me
 
+<div width="60%">
 :wave: Yo! I'm Hans, a tech passionate and full stack web developer. I enjoy designing, developing & deploying websites and web application just for the fun of it. :satisfied:
+</div>
 
 ## Tech stack
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="150" width="150" >
