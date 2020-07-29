@@ -19,6 +19,9 @@
 
 ## :fire: Tech stack :fire:
 <div align="center">
+
+### FReMP Stack
+
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="100" width="100" >
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" height="100" width="100">
 <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" height="100" width="100">
