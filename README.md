@@ -1,5 +1,5 @@
+<img src="https://github.com/kouul/kouul/blob/master/hans.gif">
 <div align="center">
-<img src="https://github.com/kouul/kouul/blob/master/hans.gif" width="80%">
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="150" width="80%">
 </div>
 <div>
