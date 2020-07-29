@@ -8,7 +8,7 @@
 ## Tech stack
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="150" width="150" >
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" height="150" width="150">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" height="150" width="150">
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" height="150" width="150">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" height="150" width="150">
 
 ## Social life
