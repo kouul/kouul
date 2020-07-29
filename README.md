@@ -6,7 +6,9 @@
 
 # Yo! I'm Hans, :wave: 
 
-:sparkles: Passionate about modern technological advances 
+<img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
+Passionate about modern technological advances 
+<br />
 
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
 Full stack web applications developer
@@ -35,12 +37,13 @@ Containerize web apps
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" height="100" width="100">
 <br />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="100" width="100">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-256.png" height="100" width="100">
 </div>
 
 ## :star: My Projects :star:
 
 **HashtagHub**
-<a href="http://hashtaghub.herokuapp.com/">
+<a href="https://hashtaghub.herokuapp.com/">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
 </a>
 
