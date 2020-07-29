@@ -30,11 +30,15 @@ Deploy web apps
 Containerize web apps
 
 ## Tech stack
+<div align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="100" width="100" >
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" height="100" width="100">
 <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" height="100" width="100">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" height="100" width="100">
+<br />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="100" width="100">
 
+</div>
 ## :star: My Projects :star:
 
 **HashtagHub**
