@@ -9,8 +9,7 @@
 #### <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">Passionate about modern technological advances 
 <br />
 
-##### <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
-Full stack web applications developer
+### <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">Full stack web applications developer
 <br />
 
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
