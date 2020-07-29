@@ -1,5 +1,5 @@
 <div align="right">
-    <img src="https://pluspng.com/img-png/dragon-png-green-dragon-png-images-free-drago-picture-1506.png">
+    <img src="https://pluspng.com/img-png/dragon-png-green-dragon-png-images-free-drago-picture-1506.png" width="200">
 </div>
 
 <div align="center">
