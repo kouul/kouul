@@ -37,8 +37,8 @@ Containerize web apps
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" height="100" width="100">
 <br />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="100" width="100">
-
 </div>
+
 ## :star: My Projects :star:
 
 **HashtagHub**
@@ -47,7 +47,7 @@ HashtagHub is an online platform that fetches public posts and articles from soc
 
 **buildflaskapp**
 
-<a href="https://github.com/buildflaskapp/buildflaskapp/stargazers"><img src="https://img.shields.io/github/buildflaskapp/buildflaskapp" atl="Stars"></a>
+<a href="https://github.com/buildflaskapp/buildflaskapp/stargazers"><img src="https://img.shields.io/github/stars/buildflaskapp/buildflaskapp" atl="Stars"></a>
 
 buildflaskapp is a commandline tool written in Python and made compatible for all Unix and Windows OS. The aim is to generate a minimal Flask application simply by running a command.
 
