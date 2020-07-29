@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/kouul/kouul/blob/master/hans.gif">
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="150" width="80%">
 </div>
 <div>
@@ -35,7 +36,7 @@ buildflaskapp is a commandline tool written in Python and made compatible for al
 <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" height="40" width="40">
 </a>
 <a href="https://hansmaulloo.com">
-<img src="https://cdn.iconscout.com/icon/free/png-512/www-11-112203.png" height="80" width="40">
+<img src="https://cdn.iconscout.com/icon/free/png-512/www-11-112203.png" height="40" width="40">
 </a>
 <a href="https://dev.to/kouul">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-256.png" height="40" width="40">
