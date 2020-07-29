@@ -6,9 +6,9 @@
 
 # Yo! I'm Hans, :wave: 
 
-Passionate about modern technological advances with a major focus on development of full stack web applications. I enjoy building simple web apps from scratch. Keen to gain experience in front end development areas to deliver some innovative products with good user experience
+<img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="20" width="20">
+Passionate about modern technological advances 
 <br />
-I design, develop and deploy full stack websites using **Python3/Flask** for backend, **ReactJs** for frontend, **MongoDB** as database. I can also containerize your application using **Docker** if necessary. :satisfied:
 
 ## Tech stack
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="100" width="100" >
