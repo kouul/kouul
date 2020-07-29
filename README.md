@@ -1,8 +1,5 @@
-<div align="right">
-    <img src="https://pluspng.com/img-png/dragon-png-green-dragon-png-images-free-drago-picture-1506.png" width="200" style="float: right">
-</div>
-
 <div align="center">
+<img src="https://github.com/kouul/kouul/blob/master/startline.png">
 
 ## About me
 
