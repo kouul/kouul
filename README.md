@@ -10,6 +10,7 @@
 <img src="https://media.tenor.com/images/12705e6df3a814dc2fce61008ec957b1/tenor.gif" height="100" width="100">
 </div>
 
+<div align="left">
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
 Passionate about modern technological advances 
 <br />
@@ -32,6 +33,8 @@ Deploy web apps
 
 <img src="https://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/32/bullet-yellow.png" height="20" width="20">
 Containerize web apps
+
+</div>
 
 ## :fire: Tech stack :fire:
 <div align="center">
