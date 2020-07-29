@@ -6,9 +6,28 @@
 
 # Yo! I'm Hans, :wave: 
 
-<img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="20" width="20">
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
 Passionate about modern technological advances 
 <br />
+
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
+Full stack web applications developer
+<br />
+
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
+Design web apps
+<br />
+
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
+Develop web apps
+<br />
+
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
+Deploy web apps
+<br />
+
+<img src="https://cdn3.iconfinder.com/data/icons/fatcow/32/bullet_green.png" height="20" width="20">
+Containerize web apps
 
 ## Tech stack
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-256.png" height="100" width="100" >
