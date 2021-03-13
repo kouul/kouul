@@ -6,6 +6,8 @@
 :raised_hands: **Passionate** about modern technological advances 
 
 :large_orange_diamond: Full stack web applications **developer**
+-- Backend: NodeJS
+-- Frontend: ReactJS
 
 :pencil2: **Design** web apps
 
