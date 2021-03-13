@@ -7,9 +7,9 @@
 
 :large_orange_diamond: Full stack web applications **developer**
 
-  :heavy_check_mark: Backend: NodeJS
+:wavy_dash::wavy_dash: :heavy_check_mark: Backend: NodeJS
 
-  :heavy_check_mark: Frontend: ReactJS
+:wavy_dash::wavy_dash:  :heavy_check_mark: Frontend: ReactJS
 
 :pencil2: **Design** web apps
 
