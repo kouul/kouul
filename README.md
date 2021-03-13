@@ -7,10 +7,6 @@
 
 :large_orange_diamond: Full stack web applications **developer**
 
-:wavy_dash::wavy_dash: Backend: NodeJS
-
-:wavy_dash::wavy_dash: Frontend: ReactJS
-
 :pencil2: **Design** web apps
 
 :computer: **Develop** web apps
