@@ -22,10 +22,7 @@
 
 ### MERN Stack
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-2-1175137.png" height="100" width="100">
-<img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" height="100" width="100">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" height="100" width="100">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/455/nodejs-new-black-256.png" height="100" width="100" >
+<img src="https://github.com/kouul/kouul/blob/master/MERN-stack.png" height="100">
 <br />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="100" width="100">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-256.png" height="100" width="100">
