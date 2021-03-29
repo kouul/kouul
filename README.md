@@ -2,21 +2,22 @@
 <!-- <div align="center">
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="180" width="100%">
 </div> -->
+<center>
+    <div align="left">
 
-<div align="center">
+    :raised_hands: **Passionate** about modern technological advances 
 
-:raised_hands: **Passionate** about modern technological advances 
+    :large_orange_diamond: Full stack web applications **developer**
 
-:large_orange_diamond: Full stack web applications **developer**
+    :pencil2: **Design** web apps
 
-:pencil2: **Design** web apps
+    :computer: **Develop** web apps
 
-:computer: **Develop** web apps
+    :octopus: **Deploy** web apps
 
-:octopus: **Deploy** web apps
-
-:whale: **Containerize** web apps
-</div>
+    :whale: **Containerize** web apps
+    </div>
+</center>
 
 <div>
 
