@@ -3,7 +3,7 @@
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="180" width="100%">
 </div> -->
 
-<div>
+<div align="center">
 
 :raised_hands: **Passionate** about modern technological advances 
 
