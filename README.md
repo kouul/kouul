@@ -3,7 +3,8 @@
 <img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="180" width="100%">
 </div> -->
 
-<div style="font-family:Papyrus; font-size:4em;">
+<div>
+
 :raised_hands: **Passionate** about modern technological advances 
 
 :large_orange_diamond: Full stack web applications **developer**
