@@ -20,9 +20,7 @@
 ## :fire: Tech stack :fire:
 <div align="center">
 
-### MERN Stack
-
-<img src="https://github.com/kouul/kouul/blob/master/MERN-stack.png" height="100">
+<img src="https://github.com/kouul/kouul/blob/master/MERN-stack.png">
 <br />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="100" width="100">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-256.png" height="100" width="100">
