@@ -31,6 +31,16 @@
 
 ## :star: My Projects :star:
 
+**build-node-app**
+<a href="https://www.npmjs.com/package/build-node-app">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
+</a>
+
+<a href="https://github.com/hackersdotmu/build-node-app/stargazers"><img src="https://img.shields.io/github/stars/hackersdotmu/build-node-app" atl="Stars"></a>
+
+A CLI tool used to create a simple NodeJS boilerplate by running a command.
+
+
 **HashtagHub**
 <a href="https://hashtaghub.herokuapp.com/">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
