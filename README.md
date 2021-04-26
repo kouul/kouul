@@ -1,4 +1,4 @@
-## :star: My Projects :star:
+## :raised_hands: About me :raised_hands:
 
 <div align="justify">
 
@@ -7,7 +7,7 @@ Passionate about modern technological advances with a major focus on development
 
 <div>
 
-## :raised_hands: About me :raised_hands:
+## :star: My Projects :star:
 
 **build-node-app**
 <a href="https://www.npmjs.com/package/build-node-app">
