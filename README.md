@@ -40,13 +40,14 @@
 
 A CLI tool used to create a simple NodeJS boilerplate by running a command.
 
-
-**HashtagHub**
-<a href="https://hashtaghub.herokuapp.com/">
+**FReMP Stack**
+<a href="https://fremp.github.io/">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/link-external-256.png" height="18" width="18">
 </a>
 
-HashtagHub is an online platform that fetches public posts and articles from social media and blogging platforms based on the hashtag you enter, and displays them to you!
+<a href="https://github.com/FReMP/FReMP/stargazers"><img src="https://img.shields.io/github/stars/FReMP/FReMP" atl="Stars"></a>
+
+The FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
 **buildflaskapp**
 <a href="https://buildflaskapp.kouul.website/">
