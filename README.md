@@ -1,7 +1,4 @@
-<!-- <img src="https://github.com/kouul/kouul/blob/master/hans.gif"> -->
-<!-- <div align="center">
-<img src="https://github.com/kouul/kouul/blob/master/startlinee.png" height="180" width="100%">
-</div> -->
+## :star: My Projects :star:
 
 <div align="justify">
 
@@ -10,7 +7,7 @@ Passionate about modern technological advances with a major focus on development
 
 <div>
 
-## :star: My Projects :star:
+## :raised_hands: About me :raised_hands:
 
 **build-node-app**
 <a href="https://www.npmjs.com/package/build-node-app">
