@@ -5,29 +5,10 @@
 
 <div align="justify">
 
-:raised_hands: **Passionate** about modern technological advances 
-
-:large_orange_diamond: Full stack web applications **developer**
-
-:pencil2: **Design** web apps
-
-:computer: **Develop** web apps
-
-:octopus: **Deploy** web apps
-
-:whale: **Containerize** web apps
+Passionate about modern technological advances with a major focus on development of full stack web applications. I enjoy building from scratch and breaking to scratch. I can design, develop and deploy full stack websites using NodeJS for backend, ReactJs for frontend, MongoDB as database.
 </div>
 
 <div>
-
-## :fire: Tech stack :fire:
-<div align="center">
-
-<img src="https://github.com/kouul/kouul/blob/master/MERN-stack.png" height="100">
-<br />
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="70">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-256.png" height="70">
-</div>
 
 ## :star: My Projects :star:
 
@@ -57,6 +38,17 @@ The FReMP stack is a highly scalable full stack framework, which can be used to 
 <a href="https://github.com/buildflaskapp/buildflaskapp/stargazers"><img src="https://img.shields.io/github/stars/buildflaskapp/buildflaskapp" atl="Stars"></a>
 
 buildflaskapp is a commandline tool written in Python and made compatible for all Unix and Windows OS. The aim is to generate a minimal Flask application simply by running a command.
+
+
+## :fire: Tech stack :fire:
+<div align="center">
+
+<img src="https://github.com/kouul/kouul/blob/master/MERN-stack.png" height="100">
+<br />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png" height="70">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-256.png" height="70">
+</div>
+
 
 <div align="right">
 <a href="https://twitter.com/akhilmaulloo">
